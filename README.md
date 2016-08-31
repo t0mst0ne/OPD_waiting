@@ -11,5 +11,5 @@ Calculate and estimate the waiting time of OPD
 2. 到底是先報到先看比較好, 還是按照掛號順序比較好 ?
 
 Data sample 
-1. 按照掛號順序: 原始資料 OPD.csv , 下午診資料聚集 OPD_PM.csv , 上午診 OPD_AM.csv
-2. 按先報到先看:  資料申請中
+1. 按照掛號順序: 原始資料 OPD.csv ( 下午診資料聚集 OPD_PM.csv , 上午診 OPD_AM.csv )
+2. 按先報到先看: OPD2.csv 
