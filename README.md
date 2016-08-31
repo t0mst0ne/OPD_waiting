@@ -1,4 +1,6 @@
 # OPD_waiting
+
+[![Join the chat at https://gitter.im/OPD_waiting/Lobby](https://badges.gitter.im/OPD_waiting/Lobby.svg)](https://gitter.im/OPD_waiting/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Calculate and estimate the waiting time of OPD
 
 門診等待 三長兩短 對醫院, 醫師, 病患都是困擾
